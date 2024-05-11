@@ -115,5 +115,6 @@ public class Main {
         System.out.printf("«Денис теперь получает %.1f рублей. Годовой доход вырос на %.1f рублей»%n", newDenisSalary, yearNewDenisSalary - yearDenisSalary);
         System.out.printf("«Кристина теперь получает %s рублей. Годовой доход вырос на %s рублей»%n", newKristinaSalary, yearNewKristinaSalary - yearKristinaSalary);
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
     }
 }
